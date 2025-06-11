@@ -2,6 +2,8 @@
 
 ![Demo App](/public/screenshot-for-readme.png)
 
+live URL: https://code-studio-ashen.vercel.app/
+
 Highlights:
 
 - 🚀 Tech stack: Next.js 15 + Convex + Clerk + TypeScript
